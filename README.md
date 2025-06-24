@@ -11,7 +11,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://your.git.repo/password-share.git
+   git clone https://github.com/haziqpkpps/Share-Password-Generator.git
    cd password-share
    ```
 
